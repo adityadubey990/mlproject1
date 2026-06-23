@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import logging
 
-logging.baseicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO)
 
 project_name="mlproject1"
 
