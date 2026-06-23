@@ -2,12 +2,11 @@ import os
 from pathlib import Path
 import logging
 
-logging.baseicConfig(level+logging.INFO)
+logging.baseicConfig(level=logging.INFO)
 
 project_name="mlproject1"
 
 list_of_files =[
-
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/components/data_ingestion.py",
@@ -20,14 +19,14 @@ list_of_files =[
     f"src/{project_name}/exceptions.py",
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
+    "main.py",
     "app.py",
-    "dockerfile",
+    "Dockerfile", 
     "requirements.txt",
     "setup.py",
     
-]
-    
-    for filepath in list_of_files:
+    ]
+for filepath in list_of_files:
     filepath = Path(filepath)
     filedir, filename = os.path.split(filepath)
 
