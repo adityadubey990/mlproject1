@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Yoga/OneDrive/Desktop/mlproject/mlruns/0/d04aca309d7c4107a45cdad8eea48c22/artifacts
+end_time: 1783712014811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d04aca309d7c4107a45cdad8eea48c22
+run_name: bustling-crow-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783712014636
+status: 4
+tags: []
+user_id: root

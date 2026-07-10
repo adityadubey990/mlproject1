@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Yoga/OneDrive/Desktop/mlproject/mlruns/0/models/m-639ce217ab0f4082892616af0fc6f47d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-639ce217ab0f4082892616af0fc6f47d
+model_size_bytes: 708
+model_uuid: m-639ce217ab0f4082892616af0fc6f47d
+prompts: null
+run_id: 8b091331b406457d98fda56b2d73b182
+utc_time_created: '2026-07-10 19:46:14.473309'

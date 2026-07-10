@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Yoga/OneDrive/Desktop/mlproject/mlruns/0/fb569d0473d94bb3a3acf7e2b6aee789/artifacts
+end_time: 1783712224175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb569d0473d94bb3a3acf7e2b6aee789
+run_name: clumsy-trout-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783712224039
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Yoga/OneDrive/Desktop/mlproject/mlruns/0/models/m-639ce217ab0f4082892616af0fc6f47d/artifacts
+creation_timestamp: 1783712774420
+experiment_id: '0'
+last_updated_timestamp: 1783712784843
+model_id: m-639ce217ab0f4082892616af0fc6f47d
+model_type: null
+name: model
+source_run_id: 8b091331b406457d98fda56b2d73b182
+status: 2
+status_message: null

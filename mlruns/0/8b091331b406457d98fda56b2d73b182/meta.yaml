@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Yoga/OneDrive/Desktop/mlproject/mlruns/0/8b091331b406457d98fda56b2d73b182/artifacts
+end_time: 1783712784892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b091331b406457d98fda56b2d73b182
+run_name: adaptable-eel-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783712774278
+status: 3
+tags: []
+user_id: root
